@@ -6,3 +6,19 @@ body {
 .gokhan {
   background-color: blue;
 }
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  color: white;
+  background-color: #28a745;
+  border: none;
+}
+
+.yelenay {
+  background-color: black;
+}
+
+.Izzet {
+  background-color: green;
+}
